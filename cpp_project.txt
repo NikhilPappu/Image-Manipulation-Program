@@ -1,0 +1,1 @@
+./Debug/main.cpp.o ./Debug/color.cpp.o ./Debug/pixel.cpp.o ./Debug/image.cpp.o ./Debug/CompositeImage.cpp.o ./Debug/image_035.cpp.o   
